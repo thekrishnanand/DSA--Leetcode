@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -65,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
