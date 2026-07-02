@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
