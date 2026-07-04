@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0704-binary-search) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -77,14 +79,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
 | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## String
 |  |
