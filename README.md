@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
 ## Enumeration
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
