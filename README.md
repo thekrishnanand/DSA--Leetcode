@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0229-majority-element-ii) |
@@ -99,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
