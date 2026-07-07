@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0136-single-number) |
 ## Two Pointers
