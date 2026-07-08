@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0075-sort-colors) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
