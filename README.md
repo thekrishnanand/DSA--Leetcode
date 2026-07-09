@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0020-valid-parentheses) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -131,9 +133,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
