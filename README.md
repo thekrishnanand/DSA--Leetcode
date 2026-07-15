@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0075-sort-colors) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0075-sort-colors) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0876-middle-of-the-linked-list) |
