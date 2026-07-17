@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0067-add-binary) |
 | [0556-next-greater-element-iii](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1668-maximum-repeating-substring](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2785-sort-vowels-in-a-string](https://github.com/thekrishnanand/DSA--Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
